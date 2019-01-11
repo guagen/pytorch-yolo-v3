@@ -26,8 +26,8 @@ def letterbox_image(img, inp_dim):
     
     return canvas
 
+#
 
-        
 def prep_image(img, inp_dim):
     """
     Prepare image for inputting to the neural network. 
