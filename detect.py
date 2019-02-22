@@ -1,5 +1,4 @@
 ##just for test
-#111
 from __future__ import division
 import time
 import torch 
